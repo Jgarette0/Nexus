@@ -2,4 +2,4 @@
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](nexus/LandingPage-mobile.png) | ![Desktop View](nexus/LandingPage-web.png) |
+| <img src="nexus/LandingPage-mobile.png" alt="Mobile View" style="height: 400px;"> | <img src="nexus/LandingPage-web.png" alt="Desktop View" style="height: 400px;"> |
