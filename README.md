@@ -41,11 +41,27 @@ This section is where a club leader creates a club with their team.
 |-------------|--------------|
 | <img src="nexus/CreateClub-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/CreateClub-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
-## Main Page
-This page displays the main content, such as existing clubs and the main functions of the software/web app.
+## Discussion Page
+This page displays discussion contents, such as resources, questions, and tips.
 
 
 |  | |
 |-------------|--------------|
 | <img src="nexus/MainPage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/MainPage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
+
+## Announcement Page
+This page is responsible for important events, announcements, and important resources.
+
+
+|  | |
+|-------------|--------------|
+| <img src="nexus/AnnouncementPage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/AnnouncementPage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
+
+## People Page
+This page displays the members, and officers of the club.
+
+
+|  | |
+|-------------|--------------|
+| <img src="nexus/PeoplePage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/PeoplePage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
