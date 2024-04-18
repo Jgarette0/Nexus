@@ -20,5 +20,18 @@ The home page displayed when a user is Signed in.
 |-------------|--------------|
 | <img src="nexus/HomePage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/Homepage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
+## Join Page
+This section is where users join a club using a 5-7 alphanumeric code.
+
+|  | |
+|-------------|--------------|
+| <img src="nexus/JoinClub-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/JoinClub-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
+
+## Permission Page
+This page provides guidelines and permissions for users who want to lead a club.
+
+|  | |
+|-------------|--------------|
+| <img src="nexus/NSCLead-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/NSCLead-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
 
