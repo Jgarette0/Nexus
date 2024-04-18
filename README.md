@@ -34,4 +34,18 @@ This page provides guidelines and permissions for users who want to lead a club.
 |-------------|--------------|
 | <img src="nexus/NSCLead-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/NSCLead-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
+## Create Page
+This section is where a club leader creates a club with their team.
+
+|  | |
+|-------------|--------------|
+| <img src="nexus/CreateClub-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/CreateClub-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
+
+## Main Page
+This page displays the main content, such as existing clubs and the main functions of the software/web app.
+
+
+|  | |
+|-------------|--------------|
+| <img src="nexus/MainPage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/MainPage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
