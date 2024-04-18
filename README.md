@@ -1,10 +1,15 @@
 ## Landing Page
 This landing page is what users see first.
 
-| Mobile View | Desktop View |
-|-------------|--------------|
-| <img src="nexus/LandingPage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/LandingPage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
-| <img src="nexus/LandingBody-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/LandingBody-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
+<div style="display:flex; justify-content:center;">
+    <img src="nexus/LandingPage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray; margin-right: 10px;">
+    <img src="nexus/LandingPage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray; margin-left: 10px;">
+</div>
+
+<div style="display:flex; justify-content:center;">
+    <img src="nexus/LandingBody-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray; margin-right: 10px;">
+    <img src="nexus/LandingBody-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray; margin-left: 10px;">
+</div>radius: 10px; border: 1px solid gray;"> | <img src="nexus/LandingBody-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
 ## Signin Page
 This is the signin page.
