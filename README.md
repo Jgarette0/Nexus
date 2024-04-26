@@ -65,3 +65,5 @@ This page displays the members, and officers of the club.
 |-------------|--------------|
 | <img src="nexus/PeoplePage-mobile.png" alt="Mobile View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> | <img src="nexus/PeoplePage-web.png" alt="Desktop View" style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;"> |
 
+
+##END
