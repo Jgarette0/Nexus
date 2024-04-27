@@ -1,7 +1,4 @@
 
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
 ## Landing Page
 This landing page is what users see first.
 
