@@ -1,4 +1,4 @@
-<div style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray;">> <<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEFTlJK2YN7dN9qiUkCnO1aqGouv15Rkwfy0_o657hW6arXg/viewform?embedded=true" width="100%" height="4060" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
+<div style="max-width: 100%; height: auto; border-radius: 10px; border: 1px solid gray; display: flex; flex-direction: items-center;">> <<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEFTlJK2YN7dN9qiUkCnO1aqGouv15Rkwfy0_o657hW6arXg/viewform?embedded=true" width="100%" height="4060" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
 ## Landing Page
 This landing page is what users see first.
 
@@ -68,4 +68,4 @@ This page displays the members, and officers of the club.
 
 
 ##END
->>>>>>> 3e77a94d6c084242715fdccd0f857271ecd4d94f
+
